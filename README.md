@@ -18,3 +18,13 @@
   - Bv: maximum 1 steelpoging per beurt *(en dus ook maar één challenge per beurt)*
 - Bepalen of het toegestaan is om minder stappen te zetten dan je moet zetten om de finish te halen; met andere woorden:
   - Als je 2 stappen verwijderd bent van de finish, maar je moet er 4 zetten, moet je dan op de finish terugkeren om je 4 stappen te voltooien, of mag je het bij 2 stappen houden om te winnen.
+
+## Tweede speelsessie
+
+### Te verwerken feedback
+- Effectkaarten duidelijker maken
+  - Bij effectkaarten die de kaartwaarde verhogen of verlagen, moet er een keuze gemaakt worden:
+    - Ofwel +/-1, ofwel +/-2
+    - Gemaakte keuze ook op de kaartjes aanpassen
+  - Effecten mogen niet gestackt worden
+- 3 tokens nodig om te winnen i.p.v. 5
