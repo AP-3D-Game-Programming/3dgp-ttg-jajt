@@ -21,8 +21,10 @@
 
 ## Tweede speelsessie
 
+Tijdens de focus testing hebben we onze focus gelegd op **clarity**. De feedback is duidelijk van toepassing op ons focuspunt.
+
 ### Te verwerken feedback
-- Effectkaarten duidelijker maken
+- Effectkaarten duidelijker maken **(clarity)**
   - Bij effectkaarten die de kaartwaarde verhogen of verlagen, moet er een keuze gemaakt worden:
     - Ofwel +/-1, ofwel +/-2
     - Gemaakte keuze ook op de kaartjes aanpassen
